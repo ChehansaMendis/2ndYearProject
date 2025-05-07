@@ -1,0 +1,49 @@
+# Python-related files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
