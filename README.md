@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of your project.
+AI-Based Fake News Detection System for Media Credibility
 
 ## Dataset
 
